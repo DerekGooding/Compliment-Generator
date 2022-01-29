@@ -1,0 +1,7 @@
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\bin\Debug\Compliment Generator.exe.config
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\bin\Debug\Compliment Generator.exe
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\bin\Debug\Compliment Generator.pdb
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\obj\Debug\Compliment Generator.csproj.AssemblyReference.cache
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\obj\Debug\Compliment Generator.csproj.CoreCompileInputs.cache
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\obj\Debug\Compliment Generator.exe
+C:\Users\djgoo\source\repos\Compliment Generator\Compliment Generator\obj\Debug\Compliment Generator.pdb
